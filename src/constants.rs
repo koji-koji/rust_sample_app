@@ -1,1 +1,1 @@
-pub const SampleConst: i32 = 1;
+pub const SAMPLE_CONST: i32 = 1;

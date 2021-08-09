@@ -3,7 +3,7 @@ mod fizz_bazz;
 
 fn main() {
     println!("Hello, world!");
-    println!("{}", internal_adder(2, constants::SampleConst));
+    println!("{}", internal_adder(2, constants::SAMPLE_CONST));
     fizz_bazz::run();
 }
 
